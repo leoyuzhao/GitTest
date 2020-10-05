@@ -13,3 +13,4 @@ leo test confilct 2
 qq test conflict 5
 qq test confilct 6
 qq test confilct final
+leo test confilct final
