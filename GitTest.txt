@@ -8,3 +8,5 @@ qq test conflict
 leo test confilct
 qq test conflict 3
 leo test confilct 2
+qq test conflict 5
+qq test confilct 6
