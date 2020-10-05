@@ -10,3 +10,5 @@ qq test conflict 3
 leo test confilct 2
 -- leo test confilct 4
 -- leo test confilct 5
+qq test conflict 5
+qq test confilct 6
