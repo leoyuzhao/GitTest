@@ -1,6 +1,6 @@
-HelloWorld. qq test confilct
+HelloWorld. qq test conflict1 confilct
 HelloWorld. !dev test conflict
 HelloWorld. dev test conflict
-leoyuzhaodev modified
+leoyuzhaodev modified 
 leoyuzhao modified1
 leoyuzhaoqq requests that modifing the file.
